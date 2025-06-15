@@ -1,0 +1,18 @@
+# Simulink auto-generated files
+*.asv
+*.autosave
+*.mdl.*
+*.slxc
+*.slxp
+*.mex*
+slprj/
+codegen/
+*.log
+
+# MATLAB/Simulink Project files
+*.prj
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
